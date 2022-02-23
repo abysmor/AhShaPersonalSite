@@ -1,6 +1,7 @@
 /* Imports */
 @import url("https://fonts.googleapis.com/css2?family=Lora&family=Poppins&display=swap");
 
+/* Styles */
 body {
   background-color: #cdeeff;
   font-family: "Poppins", sans-serif;
@@ -18,12 +19,8 @@ hr {
 a {
   color: #ed5edd;
 }
-
-img {
-  height: 50px;
-  width: auto;
-}
-
+/* img {
+} */
 h1 {
   color: #8c35fd;
   font-family: "Poppins", sans-serif;
@@ -32,7 +29,12 @@ h3 {
   color: #009c5b;
   font-family: "Poppins", sans-serif;
 }
-
 td {
   font-family: "Lora", serif;
+}
+
+/* Classes */
+.profileimg {
+  height: 175px;
+  width: auto;
 }
